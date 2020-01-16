@@ -1,0 +1,20 @@
+.Sidebar {
+    background-color: rgb(59, 42, 9);
+    color: rgb(255, 255, 255);
+    height: 100vh ;
+    width : 11em ;
+    font-size: 1.5em ;
+    
+}
+.Sidebar h1 {
+    padding: 0.5em;
+}
+.Sidebar li {
+    text-align: left;
+    margin: 0.5em;
+    height: 1.7em;
+    
+}
+.Sidebar li:hover {
+    background-color:  rgb(163, 139, 134);
+  }
